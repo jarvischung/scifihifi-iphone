@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.source_files = 'SFHFLib/*.{h,m}'
   s.requires_arc = false
   s.ios.deployment_target = '5.1'
-  s.ios.frameworks = 'Secutiry'
+  s.ios.frameworks = 'Security'
 
 end
